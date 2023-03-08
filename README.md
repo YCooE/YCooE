@@ -3,6 +3,7 @@ I am Ivan
 
 - 🌱 I’m currently learning AWS, Kubernetes, Docker
 - 🔭 I’m currently working on a third person game in Unreal Engine
+- Working on updating github to show projects and code over the years
 <!--
 **YCooE/YCooE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
