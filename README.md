@@ -1,8 +1,8 @@
 ### Hi there 👋
 Software Engineer / Data Engineer
 
--🌱 Working on pipelines in Databricks day to day
--🔭 I’m currently working on games in spare time
+- 🌱 Working on pipelines in Databricks day to day
+- 🔭 I’m currently working on games in spare time
 Working on updating github to show projects and code over the years
 <!--
 **YCooE/YCooE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
